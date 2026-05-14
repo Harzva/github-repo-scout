@@ -2,7 +2,7 @@ param(
     [Parameter(Mandatory = $true)]
     [string]$OwnerRepo,
 
-    [string]$KnowledgebasePath = "D:\study\code\0ai\产品\09-wemedia\harzva-knowledgebase",
+    [string]$KnowledgebasePath = "D:\study\code\0ai\产品\14-personal_knowledgebase\harzva-knowledgebase",
 
     [string]$Status = "candidate"
 )

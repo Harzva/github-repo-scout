@@ -12,7 +12,7 @@ Use this skill to replace manual browser-based GitHub hunting with a repeatable 
 Archive useful results in:
 
 ```text
-D:\study\code\0ai\产品\09-wemedia\harzva-knowledgebase
+D:\study\code\0ai\产品\14-personal_knowledgebase\harzva-knowledgebase
 ```
 
 ## Workflow
