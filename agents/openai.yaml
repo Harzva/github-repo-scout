@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Repo Scout"
+  short_description: "Find and archive useful GitHub repos."
+  default_prompt: "Search GitHub for repositories related to my task, compare the strongest candidates, and archive useful repo cards into Harzva Knowledgebase."
